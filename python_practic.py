@@ -52,8 +52,3 @@ while True:
         break
     else:
          print("invalid choice , pease slect a  valid option.")
-
-<<<<<<< HEAD
-''' hye today i was practic about python day one   '''
-=======
->>>>>>> 33e797ed19e497656a38ce8ecf2842f260c5ba9b
