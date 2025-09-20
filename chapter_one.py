@@ -8,7 +8,7 @@ print("hye i am so hungry")
 
 print("hello i a \"good student\" and i was learning a python language\nthis is my secont lenguage i was learn ")
 
-print("hello my love", "i am a good student", "and i am learning a python language", sep="~")
+print("hello my love", "i am a good student", "and i am learning a python language", sep= ("$"))
 
 print("hey", 6, 7, sep="~", end="009\n")
 
